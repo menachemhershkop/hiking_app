@@ -20,3 +20,6 @@ export default function checker(temp, wind){
         return {"safe": true,"message": "All conditions are good for hiking!"}
     };
 };
+
+
+// console.log(checker(15,32));
